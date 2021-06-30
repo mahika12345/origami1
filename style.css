@@ -1,0 +1,7 @@
+body{
+    background-color: #888;
+}
+.origami{
+    display:flex;
+    justify-content: center;
+}
